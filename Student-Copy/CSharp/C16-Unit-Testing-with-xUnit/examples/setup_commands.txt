@@ -1,0 +1,7 @@
+dotnet new sln -n Maths
+dotnet new classlib -o MathsLib
+dotnet new xunit -o MathsLib.Tests
+dotnet sln add MathsLib MathsLib.Tests
+dotnet add MathsLib.Tests reference MathsLib
+
+dotnet test            # runs every test

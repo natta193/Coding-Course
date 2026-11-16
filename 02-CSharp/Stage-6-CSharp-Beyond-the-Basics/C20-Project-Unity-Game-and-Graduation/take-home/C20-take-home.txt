@@ -1,0 +1,18 @@
+TAKE-HOME PROJECT: Ship Your Game
+After lesson C20 (Project – Unity Game and Graduation) - about 2 hours per gap (4–6 gaps), in chunks over the next few days.
+
+Your graduation game. One milestone per gap; every session starts with a playtest of the
+latest build.
+
+Milestones (make each one work before starting the next):
+  [ ] 1. Gap 1: grey-box prototype (M1)
+  [ ] 2. Gap 2: core mechanic + win/lose (M2)
+  [ ] 3. Gap 3: UI, menus, restart (M3)
+  [ ] 4. Gap 4: content – levels or waves (M4)
+  [ ] 5. Gap 5: polish – art, sound, particles (M5)
+  [ ] 6. Gap 6: build it, playtest with 3 people, fix, rehearse your graduation demo
+
+Stretch: Publish a WebGL build on itch.io (with a parent's OK) and send the link to
+family.
+
+Bring it to the next session - working or stuck, both are fine.

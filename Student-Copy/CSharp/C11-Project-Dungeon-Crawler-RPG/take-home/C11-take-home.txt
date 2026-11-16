@@ -1,0 +1,13 @@
+TAKE-HOME PROJECT: Dungeon Crawler Sprints
+After lesson C11 (Project – Dungeon Crawler RPG) - about 2 hours per gap (2–3 gaps), in chunks over the next few days.
+
+Push your dungeon crawler forward one milestone per gap, then add your own twist.
+
+Milestones (make each one work before starting the next):
+  [ ] 1. Gap 1: M1–M2 (characters, hero classes, items via IItem)
+  [ ] 2. Gap 2: M3–M4 (rooms, map, XP, floors, boss)
+  [ ] 3. Gap 3: your twist – a shop, poison, a new hero class – and the Stage 5 checkpoint
+
+Stretch: Save and load the game (a simple text format now, JSON after C15).
+
+Bring it to the next session - working or stuck, both are fine.

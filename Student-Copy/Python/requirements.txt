@@ -1,0 +1,5 @@
+# Course packages – install inside the venv:  pip install -r requirements.txt
+pygame>=2.5
+pytest>=8.0
+requests>=2.31
+matplotlib>=3.8

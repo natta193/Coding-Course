@@ -1,0 +1,15 @@
+TAKE-HOME PROJECT: Write Your World
+After lesson P20 (Project – Text Adventure Engine) - about 2 hours (over 2 gaps if needed), in chunks over the next few days.
+
+The engine works – now write the game! Make an adventure world you'd want to play.
+
+Milestones (make each one work before starting the next):
+  [ ] 1. Plan a map on paper: at least 6 rooms with exits and a theme
+  [ ] 2. Write the ROOMS data: descriptions, items, at least one locked room that needs an
+         item
+  [ ] 3. Add a twist: a hidden room, a riddle, or a trap that ends the game
+  [ ] 4. Do the Stage 2 checkpoint without notes
+
+Stretch: Add NPCs: a "person" key in a room with lines they say when you type "talk".
+
+Bring it to the next session - working or stuck, both are fine.

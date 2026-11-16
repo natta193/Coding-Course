@@ -1,0 +1,5 @@
+s1 = set(input("Sentence 1: ").lower().split())
+s2 = set(input("Sentence 2: ").lower().split())
+print("In both:", s1 & s2)
+print("Only in first:", s1 - s2)
+print("Unique words total:", len(s1 | s2))

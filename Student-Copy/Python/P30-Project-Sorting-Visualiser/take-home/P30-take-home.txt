@@ -1,0 +1,14 @@
+TAKE-HOME PROJECT: Visualiser Upgrades
+After lesson P30 (Project – Sorting Visualiser) - about 1–2 hours, in chunks over the next few days.
+
+Finish the sorting visualiser and add features, then do the Stage 3 checkpoint.
+
+Milestones (make each one work before starting the next):
+  [ ] 1. Finish milestones M1–M5
+  [ ] 2. Add starting-data options: random, nearly sorted, reversed – which sort wins each?
+  [ ] 3. Record a screen video of your favourite sort to show next session
+  [ ] 4. Do the Stage 3 checkpoint without notes
+
+Stretch: Race two algorithms side by side in one window.
+
+Bring it to the next session - working or stuck, both are fine.

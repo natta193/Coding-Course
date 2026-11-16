@@ -1,0 +1,17 @@
+TAKE-HOME PROJECT: Capstone Sprints
+After lesson P40 (Project – Git and the Python Capstone) - about 2 hours per gap (3–5 gaps), in chunks over the next few days.
+
+Your capstone is your Python graduation project. Work in "sprints": one milestone per
+gap between sessions.
+
+Milestones (make each one work before starting the next):
+  [ ] 1. Make a new folder for it with its OWN venv (python3 -m venv .venv) and a
+         requirements.txt
+  [ ] 2. Git commit after every work session with a clear message
+  [ ] 3. Each gap: one milestone from your plan + update the test plan table
+  [ ] 4. Final gap: write the evaluation and prepare a 5-minute demo
+
+Stretch: Write a README.md for the repo with screenshots so it works as a portfolio
+piece.
+
+Bring it to the next session - working or stuck, both are fine.

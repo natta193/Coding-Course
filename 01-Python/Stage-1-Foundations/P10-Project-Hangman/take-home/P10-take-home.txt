@@ -1,0 +1,15 @@
+TAKE-HOME PROJECT: Hangman Deluxe
+After lesson P10 (Project – Hangman) - about 1–2 hours, in chunks over the next few days.
+
+Finish Hangman, then turn it into a deluxe version and do the Stage 1 checkpoint.
+
+Milestones (make each one work before starting the next):
+  [ ] 1. Finish milestones M1–M5 from the session
+  [ ] 2. Add categories (animals, countries, games…) – the player picks one
+  [ ] 3. Add a 2-player mode where one person types the word
+  [ ] 4. Do stage1_checkpoint.py WITHOUT notes – it tells us what to revise
+
+Stretch: Add a hint that reveals one letter but costs 2 lives, and keep score over
+several rounds.
+
+Bring it to the next session - working or stuck, both are fine.

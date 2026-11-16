@@ -1,0 +1,14 @@
+TAKE-HOME PROJECT: Keep Building Your Game
+After lesson P37 (Project – Arcade Game) - about 2 hours per gap (2–3 gaps), in chunks over the next few days.
+
+Your arcade game is a multi-week project – push it forward one milestone per gap.
+
+Milestones (make each one work before starting the next):
+  [ ] 1. Gap 1: M1–M3 (movement, core mechanic, enemies + collisions + score)
+  [ ] 2. Gap 2: M4 (states, restart, high score file)
+  [ ] 3. Gap 3: M5 game feel (sounds, particles, shake, difficulty curve)
+  [ ] 4. Each time: get one person to play it and write down their reaction
+
+Stretch: Put it on itch.io (with a parent's OK) using pygbag to make a web version.
+
+Bring it to the next session - working or stuck, both are fine.

@@ -1,0 +1,16 @@
+TAKE-HOME PROJECT: Finish Higher or Lower
+After lesson P07 (Project – Higher or Lower) - about 1–2 hours, in chunks over the next few days.
+
+Finish the milestones you didn't get to in the session, then make the game your own.
+
+Milestones (make each one work before starting the next):
+  [ ] 1. Finish milestones 2–5 (difficulty, lives, play again, best score)
+  [ ] 2. Add the reverse mode where the computer guesses YOUR number
+  [ ] 3. Make the computer as smart as possible – how many guesses does it need at most for
+         1–100? Why?
+  [ ] 4. Ask someone at home to play and watch them – fix anything that confuses them
+
+Stretch: Add a two-player mode: player 1 types a secret number (hide it by printing 50
+blank lines), player 2 guesses.
+
+Bring it to the next session - working or stuck, both are fine.

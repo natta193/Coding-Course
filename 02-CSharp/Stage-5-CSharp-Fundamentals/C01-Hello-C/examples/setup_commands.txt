@@ -1,0 +1,8 @@
+# 1. Install the .NET 8 SDK from dot.net
+# 2. In VS Code install "C# Dev Kit"
+# 3. In a terminal:
+
+dotnet --version          # check it worked
+dotnet new console -o HelloWorld
+cd HelloWorld
+dotnet run                # build + run

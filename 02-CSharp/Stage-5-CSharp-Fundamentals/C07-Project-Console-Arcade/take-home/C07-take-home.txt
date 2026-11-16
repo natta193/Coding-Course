@@ -1,0 +1,14 @@
+TAKE-HOME PROJECT: Arcade Expansion
+After lesson C07 (Project – Console Arcade) - about 1–2 hours, in chunks over the next few days.
+
+Finish your Console Arcade and add a game nobody else has.
+
+Milestones (make each one work before starting the next):
+  [ ] 1. Finish milestones M1–M5
+  [ ] 2. Invent and add one original mini-game
+  [ ] 3. Add a "stats" screen: games played and best score per game
+  [ ] 4. Get two people to play; their high scores go in the file
+
+Stretch: Port Snake to the console with KeyAvailable and SetCursorPosition.
+
+Bring it to the next session - working or stuck, both are fine.

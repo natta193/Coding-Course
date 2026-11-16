@@ -1,0 +1,10 @@
+git init                      # start tracking this folder
+git status                    # what's changed?
+git add game.py               # stage a file (or: git add .)
+git commit -m "Add player movement"
+git log --oneline             # history
+git diff                      # see unstaged changes
+
+# put it on GitHub (after creating an empty repo there)
+git remote add origin https://github.com/you/space-game.git
+git push -u origin main

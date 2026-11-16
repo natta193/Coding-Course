@@ -1,0 +1,15 @@
+TAKE-HOME PROJECT: Quiz Master Content
+After lesson P18 (Project – Quiz Master) - about 1–2 hours, in chunks over the next few days.
+
+Finish Quiz Master and fill it with your own questions.
+
+Milestones (make each one work before starting the next):
+  [ ] 1. Finish milestones M3–M5 (rounds, timer bonus, leaderboard)
+  [ ] 2. Write at least 30 questions across 3+ categories in questions.csv – include topics
+         you're into
+  [ ] 3. Get two people at home to play; save their scores to the leaderboard
+  [ ] 4. Fix one thing that confused them
+
+Stretch: Add a 50:50 lifeline (removes two wrong answers, once per game).
+
+Bring it to the next session - working or stuck, both are fine.

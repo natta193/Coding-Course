@@ -1,0 +1,10 @@
+Console.ForegroundColor = ConsoleColor.Cyan;
+Console.WriteLine("****************************");
+Console.WriteLine("*                          *");
+Console.WriteLine("*     C# IS AWESOME        *");
+Console.ForegroundColor = ConsoleColor.Yellow;
+Console.WriteLine("*     Stage 5 begins!      *");
+Console.ForegroundColor = ConsoleColor.Cyan;
+Console.WriteLine("*                          *");
+Console.WriteLine("****************************");
+Console.ResetColor();

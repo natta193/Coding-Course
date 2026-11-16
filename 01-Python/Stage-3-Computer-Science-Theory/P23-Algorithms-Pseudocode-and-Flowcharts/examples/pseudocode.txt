@@ -1,0 +1,14 @@
+total ← 0
+count ← 0
+REPEAT
+    num ← USERINPUT
+    IF num > 0 THEN
+        total ← total + num
+        count ← count + 1
+    ENDIF
+UNTIL num = -1
+IF count > 0 THEN
+    OUTPUT total / count
+ELSE
+    OUTPUT "No numbers"
+ENDIF
